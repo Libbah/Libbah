@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Lorenzo - aka Libbah 👋
 
-<!--
-**Libbah/Libbah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+● 🔭 I’m currently working on Zephyr Discord Bot.  
+● 🌱 I’m currently learning Front-End Developing (React, Handlebars, Typescript).  
+● 👯 I’m looking to collaborate with other Discord.js Developers!
 
-Here are some ideas to get you started:
+### Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
+[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][website]
+
+<br />
+<br />
+
+
+[website]: https://zephyrbot.xyz/
+
+
